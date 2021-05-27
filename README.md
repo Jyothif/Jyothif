@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... about data science
 - 📫 How to reach me: ... jyothiffu@gmail.com
 - 😄 Pronouns: ... Jyothi
--->
