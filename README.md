@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 <img src="https://github.com/Jyothif/Jyothif/blob/main/img.jpg"
      align=right
      width = '300'
