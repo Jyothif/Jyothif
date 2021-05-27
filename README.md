@@ -4,7 +4,10 @@
 
 Here are some ideas to get you started:
 <img src="https://github.com/Jyothif/Jyothif/blob/main/Jyo.jpg"
-     align=right>
+     align=right
+     width = '500'
+     height = '500'
+     />
 
 - 🔭 I’m currently working on .... End to End Deeplearning and ML projects
 - 🌱 I’m currently learning ... Django
