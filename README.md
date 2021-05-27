@@ -5,8 +5,8 @@
 Here are some ideas to get you started:
 <img src="https://github.com/Jyothif/Jyothif/blob/main/Jyo.jpg"
      align=right
-     width = '500'
-     height = '500'
+     width = '100'
+     height = '100'
      />
 
 - 🔭 I’m currently working on .... End to End Deeplearning and ML projects
