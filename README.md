@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/Jyothif/Jyothif/blob/main/2.jpg"
+<img src="https://github.com/Jyothif/Jyothif/blob/main/3.jpg"
      align=right
      width = '300'
      height = '300'
