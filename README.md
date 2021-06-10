@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Jyothif/Jyothif/blob/main/3.jpg"
      align=right
-     width = '300'
+     width = '400'
      height = '300'
      />
 
