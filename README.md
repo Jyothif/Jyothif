@@ -4,8 +4,8 @@
 
 <img src="https://github.com/Jyothif/Jyothif/blob/main/3.jpg"
      align=right
-     width = '400'
-     height = '300'
+     width = '300'
+     height = '400'
      />
 
 - 🔭 I’m currently working on .... End to End Deeplearning and ML projects
