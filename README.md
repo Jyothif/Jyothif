@@ -12,6 +12,6 @@
 - 🌱 I’m currently learning ... Django
 - 👯 I’m looking to collaborate on ... Data science
 - 🤔 I’m looking for help with ... django and DL
-- 💬 Ask me about ... about data science
+- 💬 Ask me about ...Data science
 - 📫 How to reach me: ... jyothiffu@gmail.com
 - 😄 Pronouns: ... Jyothi
